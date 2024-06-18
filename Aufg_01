@@ -1,0 +1,14 @@
+public class Main {
+        public static void main(String[] args) {
+        // Задаване на името
+        String name = "Иван";
+        System.out.println("Иван");
+
+        // Задаване на  хобито
+        String hobby = "риболов";
+        System.out.println("риболов");
+
+        // Създаване и принтиране на съобщението
+        System.out.println("Аз съм " + name + " и съм страстен рибар.");
+        }
+        }
